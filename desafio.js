@@ -87,7 +87,7 @@ const decisaoround = () => {
       curaPokemon()
       break
     default:
-      window.alert('Voce não fez nada')
+      window.alert('Voce desperdiçou sua rodada ao não escolher nenhuma das opçoes citadas')
       ataquePokemonInimigo()
   }
 }
